@@ -4,9 +4,6 @@ Demo Video
 https://github.com/Seeyog07/Basketball-Unity-VR/assets/99110768/86847409-e5d7-4546-83b5-5c72e7e7f415
 
 
-https://github.com/Seeyog07/Basketball-Unity-VR/assets/99110768/b6d15e2f-6ce3-434c-ba1f-daa4835b38a7
-
-
 https://github.com/Seeyog07/Basketball-Unity-VR/assets/99110768/1be19abf-e888-414c-9f07-730ceccac2db
 
 
